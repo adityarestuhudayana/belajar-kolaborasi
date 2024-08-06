@@ -1,1 +1,1 @@
-Senin = ['Aditya', 'Udin']
+Senin = ['Aditya', 'Udin', 'Bambang']
