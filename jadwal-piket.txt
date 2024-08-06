@@ -1,1 +1,3 @@
 Senin = ['Aditya', 'Udin', 'Bambang']
+Selasa = ['Adryan', 'Asep', 'Dody']
+
