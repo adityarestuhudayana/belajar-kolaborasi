@@ -1,2 +1,2 @@
 Senin = ['Aditya', 'Udin']
-Selasa = ['Adryan', 'Asep']
+Selasa = ['Adryan', 'Asep', 'Dody']
